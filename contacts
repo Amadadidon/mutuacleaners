@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <title>contact</title>
+         <style>
+             header{
+                 color: blue;
+                 background-color: yellow;
+                 text-align: center;
+             }
+             h3{
+                 color: blue;
+             }
+             .z{
+                 background-color: yellow;
+             }
+             img{
+                 
+             }
+         </style>
+    </head>
+    <body>
+        <header>Our contacts</header>
+        <h3>Additinal images</h3>
+        <img src="one" alt="Image1">
+        <img src="two" alt="Image2">
+        <img src="three" alt="Image3">
+        <h3>Need our services?</h3>
+        <p>
+            Contact us for bookings through;<br>
+            Calls: Benjamin Mutua: 0727534479<br>
+            Whatsapp: <a href="https://wa.me/254727534479">Mutua</a><br>
+            Thank you for being part of us!<br>
+        </p>
+        <a href="index.html">back</a>
+        <p>
+            <h3>Need a business website?</h3><br>
+            Whatsapp: <a href="https://wa.me/254115644405">Amadadi</a>
+            
+        </p>
+        <p class="z">Amadadi Web Deisgn, Copyright &copy; 2026</p>
+    </body>
+</html>
